@@ -89,6 +89,6 @@ Rafael Peressoni Waltrick | PO | [Linkedin](https://www.linkedin.com/in/rafael-p
 
 </div>
  
- <h5 align="center"> Protótipo INPR - São José dos Campos </h5>
+ <h5 align="center"> Protótipo INPE - São José dos Campos </h5>
  
  → [Voltar ao topo](#topo)
